@@ -1,1 +1,1 @@
-# gzlogcode
+# gzlog资源网
